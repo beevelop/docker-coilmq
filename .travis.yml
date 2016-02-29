@@ -1,0 +1,9 @@
+
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker build -t coilmq .
+  - docker run coilmq --help
