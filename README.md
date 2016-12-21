@@ -1,6 +1,9 @@
-[![Travis](https://img.shields.io/travis/beevelop/docker-coilmq.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-coilmq)
-[![Docker Pulls](https://img.shields.io/docker/pulls/beevelop/coilmq.svg?style=flat-square)](https://links.beevelop.com/d-coilmq)
-[![ImageLayer](https://badge.imagelayers.io/beevelop/coilmq:latest.svg)](https://imagelayers.io/?images=beevelop/coilmq:latest)
+[![Travis](https://shields.beevelop.com/travis/beevelop/docker-coilmq.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-coilmq)
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/coilmq.svg?style=flat-square)](https://links.beevelop.com/d-coilmq)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/coilmq/latest.svg?style=flat-square)](https://links.beevelop.com/d-coilmq)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/coilmq/latest.svg?style=flat-square)](https://links.beevelop.com/d-coilmq)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-coilmq.svg?style=flat-square)](https://github.com/beevelop/docker-coilmq/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 # [CoilMQ](https://github.com/hozn/coilmq/) for Docker :whale2:
